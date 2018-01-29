@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bitcoin_App_TradeMarket_PoliHack", "Bitcoin_App_TradeMarket_PoliHack\Bitcoin_App_TradeMarket_PoliHack.csproj", "{819AA803-7266-4DF9-B5EE-85825AADEE1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetHashAPI", "GetHashAPI\GetHashAPI.csproj", "{2D9FE177-18A3-4AA1-95CB-368E274886BD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C4F94761-9429-4723-BF06-B8D9D233C0A4}"
+	ProjectSection(SolutionItems) = preProject
+		D:\bitcoin.sqlite = D:\bitcoin.sqlite
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfata", "..\..\..\..\..\Desktop\Interfata\Interfata\Interfata.csproj", "{55CCDA5C-7987-44DE-B3EE-22ACE84077B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{819AA803-7266-4DF9-B5EE-85825AADEE1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{819AA803-7266-4DF9-B5EE-85825AADEE1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{819AA803-7266-4DF9-B5EE-85825AADEE1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{819AA803-7266-4DF9-B5EE-85825AADEE1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D9FE177-18A3-4AA1-95CB-368E274886BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D9FE177-18A3-4AA1-95CB-368E274886BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D9FE177-18A3-4AA1-95CB-368E274886BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D9FE177-18A3-4AA1-95CB-368E274886BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55CCDA5C-7987-44DE-B3EE-22ACE84077B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55CCDA5C-7987-44DE-B3EE-22ACE84077B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55CCDA5C-7987-44DE-B3EE-22ACE84077B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55CCDA5C-7987-44DE-B3EE-22ACE84077B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

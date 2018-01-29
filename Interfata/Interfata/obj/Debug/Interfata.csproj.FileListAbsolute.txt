@@ -1,0 +1,34 @@
+f:\users\neamtu\documents\visual studio 2015\Projects\Interfata\Interfata\bin\Debug\Interfata.exe.config
+f:\users\neamtu\documents\visual studio 2015\Projects\Interfata\Interfata\bin\Debug\Interfata.exe
+f:\users\neamtu\documents\visual studio 2015\Projects\Interfata\Interfata\bin\Debug\Interfata.pdb
+f:\users\neamtu\documents\visual studio 2015\Projects\Interfata\Interfata\obj\Debug\Interfata.csprojResolveAssemblyReference.cache
+f:\users\neamtu\documents\visual studio 2015\Projects\Interfata\Interfata\obj\Debug\Interfata.Properties.Resources.resources
+f:\users\neamtu\documents\visual studio 2015\Projects\Interfata\Interfata\obj\Debug\Interfata.csproj.GenerateResource.Cache
+f:\users\neamtu\documents\visual studio 2015\Projects\Interfata\Interfata\obj\Debug\Interfata.exe
+f:\users\neamtu\documents\visual studio 2015\Projects\Interfata\Interfata\obj\Debug\Interfata.pdb
+f:\users\neamtu\documents\visual studio 2015\Projects\Interfata\Interfata\obj\Debug\Interfata.SignUpWindow.resources
+f:\users\neamtu\documents\visual studio 2015\Projects\Interfata\Interfata\obj\Debug\Interfata.WithdrawMenu.resources
+f:\users\neamtu\documents\visual studio 2015\Projects\Interfata\Interfata\obj\Debug\Interfata.CreareAnunt.resources
+f:\users\neamtu\documents\visual studio 2015\Projects\Interfata\Interfata\obj\Debug\Interfata.Individual_Order.resources
+F:\Users\Neamtu\Documents\Visual Studio 2015\Projects\Interfata\Interfata\obj\Debug\Interfata.OrderList.resources
+F:\Users\Neamtu\Documents\Visual Studio 2015\Projects\Interfata\Interfata\obj\Debug\Interfata.ChargeWallet.resources
+F:\Users\Neamtu\Documents\Visual Studio 2015\Projects\Interfata\Interfata\obj\Debug\Interfata.LoginWindow.resources
+F:\Users\Neamtu\Documents\Visual Studio 2015\Projects\Interfata\Interfata\bin\Debug\Newtonsoft.Json.dll
+F:\Users\Neamtu\Documents\Visual Studio 2015\Projects\Interfata\Interfata\bin\Debug\Newtonsoft.Json.xml
+C:\Users\danie\Desktop\Interfata\Interfata\bin\Debug\Interfata.exe.config
+C:\Users\danie\Desktop\Interfata\Interfata\obj\Debug\Interfata.exe
+C:\Users\danie\Desktop\Interfata\Interfata\obj\Debug\Interfata.pdb
+C:\Users\danie\Desktop\Interfata\Interfata\bin\Debug\Interfata.exe
+C:\Users\danie\Desktop\Interfata\Interfata\bin\Debug\Interfata.pdb
+C:\Users\danie\Desktop\Interfata\Interfata\bin\Debug\Newtonsoft.Json.dll
+C:\Users\danie\Desktop\Interfata\Interfata\bin\Debug\Newtonsoft.Json.xml
+C:\Users\danie\Desktop\Interfata\Interfata\obj\Debug\Interfata.csprojResolveAssemblyReference.cache
+C:\Users\danie\Desktop\Interfata\Interfata\obj\Debug\Interfata.ChargeWallet.resources
+C:\Users\danie\Desktop\Interfata\Interfata\obj\Debug\Interfata.CreareAnunt.resources
+C:\Users\danie\Desktop\Interfata\Interfata\obj\Debug\Interfata.LoginWindow.resources
+C:\Users\danie\Desktop\Interfata\Interfata\obj\Debug\Interfata.Individual_Order.resources
+C:\Users\danie\Desktop\Interfata\Interfata\obj\Debug\Interfata.OrderList.resources
+C:\Users\danie\Desktop\Interfata\Interfata\obj\Debug\Interfata.Properties.Resources.resources
+C:\Users\danie\Desktop\Interfata\Interfata\obj\Debug\Interfata.SignUpWindow.resources
+C:\Users\danie\Desktop\Interfata\Interfata\obj\Debug\Interfata.WithdrawMenu.resources
+C:\Users\danie\Desktop\Interfata\Interfata\obj\Debug\Interfata.csproj.GenerateResource.Cache
